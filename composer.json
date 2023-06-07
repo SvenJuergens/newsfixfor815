@@ -11,5 +11,10 @@
         "psr-4": {
             "SvenJuergens\\Newsfixfor815\\": "Classes"
         }
-    }
+    },
+   "extra": {
+      "typo3/cms": {
+         "extension-key": "newsfixfor815"
+      }
+   }
 }
