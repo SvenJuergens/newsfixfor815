@@ -11,14 +11,5 @@
         "psr-4": {
             "SvenJuergens\\Newsfixfor815\\": "Classes"
         }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "SvenJuergens\\Newsfixfor815\\Tests\\": "Tests"
-        }
-    },
-    "replace": {
-        "newsfixfor815": "self.version",
-        "typo3-ter/newsfixfor815": "self.version"
     }
 }
